@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/kiwi-leapard-black.png" alt="Kiwi leopard manga artwork" width="58%" />
+  <img src="assets/ghost-in-the-shell-banner.png" alt="Ghost in the Shell: Stand Alone Complex artwork" width="100%" />
 </p>
 
 <p align="center">
@@ -8,55 +8,71 @@
   <a href="https://efchat.net/AstroSphere"><img src="https://img.shields.io/badge/efchat-AstroSphere-bd93f9?style=for-the-badge&logo=chatbot&logoColor=white" alt="efchat: AstroSphere" /></a>
 </p>
 
-<h2 align="center">✦ hi, i'm Astra ✦</h2>
+<h2 align="center">✦ I'm Astra chan ✦</h2>
 
 <p align="center">
-  <em>definitely not an anime girl · probably making another archive</em>
+  <em>just a little kawaii anime girl (guy in real life...)</em>
 </p>
 
-> I like building software that feels like a place you can return to: calm interfaces, durable data, and just enough magic around the edges.
+I mostly do small to mid-size projects with the currently sensible tech stack.
 
-I’m Astra, a software tinkerer working across **web apps, media archives, offline tools, and tiny internet worlds**. My projects tend to sit where engineering meets curation: the hard part is not only making a feature work, but making it kind to the person who has to live with it.
+I'm a big advocate of defaulting to **Go + React** or **Go + templ + HTMX** for most projects.
 
-```text
-current quest
-─────────────
-✦ make useful things feel a little magical
-✦ turn archives into places you want to revisit
-✦ leave the code kinder than i found it
-```
+I'm really curious about **Elm** and currently experimenting with it.
 
 ## 🌙 current project
 
 ### [Kura V3](https://github.com/astra-chanUwU/kura-v3-elm-go)
 
-An Elm and Go visual library with search, collections, tags, favorites, and a Lightroom-style media workspace. It is the place where I’m exploring how a personal archive can feel both powerful and calm.
+Kura is the imageboard and media-library project I'm using to try Elm with a Go backend. It has search, collections, tags, favorites, and a Lightroom-style media workspace.
 
-## 🛠️ tools i reach for
+## 🛠️ tech I use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,ts,js,astro,html,css,react,rust,sqlite,postgres,git,github&perline=6" alt="Go, TypeScript, JavaScript, Astro, HTML, CSS, React, Rust, SQLite, PostgreSQL, Git, and GitHub" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><img src="assets/icons/go.svg" width="42" alt="Go" /><br><sub>Go</sub></td>
+    <td align="center"><img src="assets/icons/react.svg" width="42" alt="React" /><br><sub>React</sub></td>
+    <td align="center"><img src="assets/icons/htmx.svg" width="42" alt="HTMX" /><br><sub>HTMX</sub></td>
+    <td align="center"><img src="assets/icons/elm.svg" width="42" alt="Elm" /><br><sub>Elm</sub></td>
+    <td align="center"><img src="assets/icons/typescript.svg" width="42" alt="TypeScript" /><br><sub>TypeScript</sub></td>
+    <td align="center"><img src="assets/icons/javascript.svg" width="42" alt="JavaScript" /><br><sub>JavaScript</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/html5.svg" width="42" alt="HTML" /><br><sub>HTML</sub></td>
+    <td align="center"><img src="assets/icons/css.svg" width="42" alt="CSS" /><br><sub>CSS</sub></td>
+    <td align="center"><img src="assets/icons/tailwindcss.svg" width="42" alt="Tailwind CSS" /><br><sub>Tailwind</sub></td>
+    <td align="center"><img src="assets/icons/tauri.svg" width="42" alt="Tauri" /><br><sub>Tauri</sub></td>
+    <td align="center"><img src="assets/icons/rust.svg" width="42" alt="Rust" /><br><sub>Rust</sub></td>
+    <td align="center"><img src="assets/icons/astro.svg" width="42" alt="Astro" /><br><sub>Astro</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/hugo.svg" width="42" alt="Hugo" /><br><sub>Hugo</sub></td>
+    <td align="center"><img src="assets/icons/tanstack.svg" width="42" alt="TanStack" /><br><sub>TanStack</sub></td>
+    <td align="center"><img src="assets/icons/convex.svg" width="42" alt="Convex" /><br><sub>Convex</sub></td>
+    <td align="center"><img src="assets/icons/sqlite.svg" width="42" alt="SQLite" /><br><sub>SQLite</sub></td>
+    <td align="center"><img src="assets/icons/postgresql.svg" width="42" alt="PostgreSQL" /><br><sub>PostgreSQL</sub></td>
+    <td align="center"><img src="assets/icons/vite.svg" width="42" alt="Vite" /><br><sub>Vite</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="assets/icons/bun.svg" width="42" alt="Bun" /><br><sub>Bun</sub></td>
+    <td align="center"><img src="assets/icons/docker.svg" width="42" alt="Docker" /><br><sub>Docker</sub></td>
+    <td align="center"><img src="assets/icons/git.svg" width="42" alt="Git" /><br><sub>Git</sub></td>
+    <td align="center"><img src="assets/icons/github.svg" width="42" alt="GitHub" /><br><sub>GitHub</sub></td>
+    <td align="center" colspan="2"><code>templ</code><br><sub>Go templating</sub></td>
+  </tr>
+</table>
 
-<p align="center">
-  <code>Go</code> · <code>TypeScript</code> · <code>Astro</code> · <code>React</code> · <code>HTMX</code> · <code>Tauri</code> · <code>TanStack</code> · <code>Convex</code> · <code>Elm</code> · <code>Tailwind CSS</code> · <code>Rust</code> · <code>SQLite</code> · <code>PostgreSQL</code>
-</p>
-
-## ✨ a little dashboard
+## ✨ GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=astra-chanUwU&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=ff8fcb&icon_color=8be9fd&text_color=cdd6f4" alt="Astra's GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-chanUwU&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ff8fcb&text_color=cdd6f4" alt="Astra's most used languages" />
 </p>
 
-## 💌 find me in the constellation
+## 💌 links
 
 <p align="center">
   <a href="https://github.com/astra-chanUwU">GitHub</a> ·
   <a href="https://x.com/Akhu176">X / @Akhu176</a> ·
   <a href="https://efchat.net/AstroSphere">efchat / AstroSphere</a>
-</p>
-
-<p align="center">
-  <sub>thanks for stopping by · leave a ⭐ if something here made you curious</sub>
 </p>

@@ -15,7 +15,7 @@ cd /Users/astrochan/Documents/Workstation/astra-chanUwU
 open README.md
 ```
 
-Edit the copy, project links, and any personal details before publishing. The profile artwork lives at `assets/kiwi-leapard-black.png`; it was converted from the supplied image so GitHub receives a valid PNG.
+Edit the copy, project links, and any personal details before publishing. The profile artwork lives at `assets/ghost-in-the-shell-banner.png`; it was converted from the supplied screenshot so GitHub receives a valid PNG.
 
 ## 2. Create the repository on GitHub
 
