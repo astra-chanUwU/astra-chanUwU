@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Astra-chan profile banner</title>
+  <desc id="desc">A dreamy indigo and pink space scene with a crescent planet, stars, and the words Astra-chan desu.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11142f"/>
+      <stop offset="0.5" stop-color="#2a1f58"/>
+      <stop offset="1" stop-color="#6b2f70"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="75%" cy="35%" r="55%">
+      <stop offset="0" stop-color="#ffb6df" stop-opacity=".7"/>
+      <stop offset=".45" stop-color="#bc8cff" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#bc8cff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="planet" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffd3ec"/>
+      <stop offset=".5" stop-color="#f08bc4"/>
+      <stop offset="1" stop-color="#8f5cb3"/>
+    </linearGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="16"/></filter>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#e9ddff" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#sky)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glow)"/>
+  <ellipse cx="925" cy="112" rx="185" ry="70" fill="#ffb8de" opacity=".16" filter="url(#blur)"/>
+  <rect x="28" y="28" width="1144" height="264" rx="20" fill="url(#grid)"/>
+  <g fill="#fff4ff">
+    <circle cx="96" cy="74" r="2"/><circle cx="174" cy="214" r="2"/><circle cx="282" cy="94" r="1.6"/>
+    <circle cx="382" cy="57" r="2"/><circle cx="487" cy="243" r="1.5"/><circle cx="574" cy="92" r="2"/>
+    <circle cx="689" cy="58" r="1.5"/><circle cx="792" cy="228" r="2"/><circle cx="1070" cy="65" r="2"/>
+    <circle cx="1130" cy="204" r="1.5"/>
+  </g>
+  <g stroke="#ffd5ef" stroke-linecap="round">
+    <path d="M238 155v18M229 164h18" stroke-width="2"/>
+    <path d="M748 118v26M735 131h26" stroke-width="2"/>
+    <path d="M1030 244v20M1020 254h20" stroke-width="1.6"/>
+  </g>
+  <circle cx="951" cy="157" r="77" fill="url(#planet)" opacity=".95"/>
+  <path d="M884 135c25-36 78-50 118-25-28-2-55 16-65 43-12 31 1 61 27 79-49-5-86-48-80-97Z" fill="#171631" opacity=".86"/>
+  <path d="M868 218c42 24 116 29 174-8" fill="none" stroke="#ffd6ef" stroke-opacity=".55" stroke-width="7"/>
+  <path d="M52 244c172-35 291 28 430-5 106-25 165-18 249 7" fill="none" stroke="#c1b3ff" stroke-opacity=".25" stroke-width="2"/>
+  <g fill="#fff7ff" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif">
+    <text x="88" y="126" font-size="22" letter-spacing="6" fill="#f9c5e5">HELLO, STARLIGHT</text>
+    <text x="82" y="184" font-size="52" font-weight="700" letter-spacing="1">Astra-chan desu!</text>
+    <text x="88" y="222" font-size="20" fill="#e4d9ff">little worlds · careful code · soft chaos</text>
+  </g>
+</svg>
