@@ -64,16 +64,6 @@ Kura is the imageboard and media-library project I'm using to try Elm with a Go 
 <p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
 
 <p align="center">
-  <a href="https://github.com/astra-chanUwU">GitHub</a> ·
-  <a href="https://x.com/Akhu176">X / @Akhu176</a> ·
-  <a href="https://efchat.net/AstroSphere">efchat / AstroSphere</a>
-</p>
-
-
-<h2 align="center">🛰️ Major's signal</h2>
-<p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
-
-<p align="center">
   <img src="assets/major-ghost-in-the-shell.png" alt="Major Motoko Kusanagi cyberpunk artwork" width="420" />
 </p>
 
@@ -81,6 +71,12 @@ Kura is the imageboard and media-library project I'm using to try Elm with a Go 
   “What if a cyber brain could possibly generate its own ghost, create a soul all by itself?”<br />
   <sub>— Major Motoko Kusanagi, <em>The Ghost in the Shell</em> by Masamune Shirow</sub>
 </blockquote>
+
+<p align="center">
+  <a href="https://github.com/astra-chanUwU">GitHub</a> ·
+  <a href="https://x.com/Akhu176">X / @Akhu176</a> ·
+  <a href="https://efchat.net/AstroSphere">efchat / AstroSphere</a>
+</p>
 
 <h2 align="center">⌁ contribution signal ⌁</h2>
 <p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
