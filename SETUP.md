@@ -28,7 +28,7 @@ From this folder:
 ```sh
 git init -b main
 git add README.md SETUP.md assets/ .gitignore
-git commit -m "Create Astra-chan profile README"
+git commit -m "Create Astro profile README"
 git remote add origin git@github.com:astra-chanUwU/astra-chanUwU.git
 git push -u origin main
 ```
