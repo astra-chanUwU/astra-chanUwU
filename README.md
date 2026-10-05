@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/ghost-in-the-shell-banner.png" alt="Ghost in the Shell: Stand Alone Complex artwork" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061a40,50:075b9a,100:00b7ff&height=200&section=header&text=Astro%20%E2%9C%A8&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Fullstack%20%7C%20TypeScript%20%7C%20Go%20%7C%20Kawaii%20and%20Lewd&descSize=16&descAlignY=55" alt="Astro ✨ — Fullstack | TypeScript | Go | Kawaii and Lewd" width="100%" />
 </p>
 
 <p align="center">
@@ -60,14 +60,6 @@ Kura is the imageboard and media-library project I'm using to try Elm with a Go 
   <a href="https://templ.guide/"><img src="assets/icons/templ.svg" width="90" alt="Templ" title="Templ" /></a>
 </p>
 
-<h2 align="center">✨ GitHub stats</h2>
-<p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=astra-chanUwU&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000&title_color=ff8fcb&icon_color=8be9fd&text_color=cdd6f4" alt="Astro's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-chanUwU&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ff8fcb&text_color=cdd6f4" alt="Astro's most used languages" />
-</p>
-
 <h2 align="center">💌 Links</h2>
 <p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
 
@@ -75,4 +67,31 @@ Kura is the imageboard and media-library project I'm using to try Elm with a Go 
   <a href="https://github.com/astra-chanUwU">GitHub</a> ·
   <a href="https://x.com/Akhu176">X / @Akhu176</a> ·
   <a href="https://efchat.net/AstroSphere">efchat / AstroSphere</a>
+</p>
+
+
+<h2 align="center">🛰️ Major's signal</h2>
+<p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
+
+<p align="center">
+  <img src="assets/major-ghost-in-the-shell.png" alt="Major Motoko Kusanagi cyberpunk artwork" width="420" />
+</p>
+
+<blockquote align="center">
+  “What if a cyber brain could possibly generate its own ghost, create a soul all by itself?”<br />
+  <sub>— Major Motoko Kusanagi, <em>The Ghost in the Shell</em> by Masamune Shirow</sub>
+</blockquote>
+
+<h2 align="center">⌁ contribution signal ⌁</h2>
+<p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
+
+<p align="center">
+  <img src="assets/github-contribution-snake-blue.svg" alt="Astro's contribution snake" width="100%" />
+</p>
+
+<p align="center"><strong>✨ Astro chan ✨</strong><br />
+<em>Fullstack · TypeScript · Go · Kawaii and Lewd</em></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061a40,50:075b9a,100:00b7ff&height=120&section=footer" alt="Blue cyberpunk footer" width="100%" />
 </p>
