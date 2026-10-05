@@ -32,32 +32,32 @@ Kura is the imageboard and media-library project I'm using to try Elm with a Go 
 <p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
 
 <p align="center">
-  <img src="assets/icons/go.svg" width="42" alt="Go" title="Go" />&nbsp;
-  <img src="assets/icons/react.svg" width="42" alt="React" title="React" />&nbsp;
-  <img src="assets/icons/htmx.svg" width="42" alt="HTMX" title="HTMX" />&nbsp;
-  <img src="assets/icons/elm.svg" width="42" alt="Elm" title="Elm" />&nbsp;
-  <img src="assets/icons/typescript.svg" width="42" alt="TypeScript" title="TypeScript" />&nbsp;
-  <img src="assets/icons/javascript.svg" width="42" alt="JavaScript" title="JavaScript" />
+  <a href="https://go.dev/"><img src="assets/icons/go.svg" width="42" alt="Go" title="Go" /></a>&nbsp;
+  <a href="https://react.dev/"><img src="assets/icons/react.svg" width="42" alt="React" title="React" /></a>&nbsp;
+  <a href="https://htmx.org/"><img src="assets/icons/htmx.svg" width="42" alt="HTMX" title="HTMX" /></a>&nbsp;
+  <a href="https://elm-lang.org/"><img src="assets/icons/elm.svg" width="42" alt="Elm" title="Elm" /></a>&nbsp;
+  <a href="https://www.typescriptlang.org/"><img src="assets/icons/typescript.svg" width="42" alt="TypeScript" title="TypeScript" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="assets/icons/javascript.svg" width="42" alt="JavaScript" title="JavaScript" /></a>
   <br />
-  <img src="assets/icons/html5.svg" width="42" alt="HTML" title="HTML" />&nbsp;
-  <img src="assets/icons/css.svg" width="42" alt="CSS" title="CSS" />&nbsp;
-  <img src="assets/icons/tailwindcss.svg" width="42" alt="Tailwind CSS" title="Tailwind CSS" />&nbsp;
-  <img src="assets/icons/tauri.svg" width="42" alt="Tauri" title="Tauri" />&nbsp;
-  <img src="assets/icons/rust.svg" width="42" alt="Rust" title="Rust" />&nbsp;
-  <img src="assets/icons/astro.svg" width="42" alt="Astro" title="Astro" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="assets/icons/html5.svg" width="42" alt="HTML" title="HTML" /></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="assets/icons/css.svg" width="42" alt="CSS" title="CSS" /></a>&nbsp;
+  <a href="https://tailwindcss.com/"><img src="assets/icons/tailwindcss.svg" width="42" alt="Tailwind CSS" title="Tailwind CSS" /></a>&nbsp;
+  <a href="https://tauri.app/"><img src="assets/icons/tauri.svg" width="42" alt="Tauri" title="Tauri" /></a>&nbsp;
+  <a href="https://www.rust-lang.org/"><img src="assets/icons/rust.svg" width="42" alt="Rust" title="Rust" /></a>&nbsp;
+  <a href="https://astro.build/"><img src="assets/icons/astro.svg" width="42" alt="Astro" title="Astro" /></a>
   <br />
-  <img src="assets/icons/hugo.svg" width="42" alt="Hugo" title="Hugo" />&nbsp;
-  <img src="assets/icons/tanstack.svg" width="42" alt="TanStack" title="TanStack" />&nbsp;
-  <img src="assets/icons/convex.svg" width="42" alt="Convex" title="Convex" />&nbsp;
-  <img src="assets/icons/sqlite.svg" width="42" alt="SQLite" title="SQLite" />&nbsp;
-  <img src="assets/icons/postgresql.svg" width="42" alt="PostgreSQL" title="PostgreSQL" />&nbsp;
-  <img src="assets/icons/vite.svg" width="42" alt="Vite" title="Vite" />
+  <a href="https://gohugo.io/"><img src="assets/icons/hugo.svg" width="42" alt="Hugo" title="Hugo" /></a>&nbsp;
+  <a href="https://tanstack.com/"><img src="assets/icons/tanstack.svg" width="42" alt="TanStack" title="TanStack" /></a>&nbsp;
+  <a href="https://www.convex.dev/"><img src="assets/icons/convex.svg" width="42" alt="Convex" title="Convex" /></a>&nbsp;
+  <a href="https://sqlite.org/"><img src="assets/icons/sqlite.svg" width="42" alt="SQLite" title="SQLite" /></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="assets/icons/postgresql.svg" width="42" alt="PostgreSQL" title="PostgreSQL" /></a>&nbsp;
+  <a href="https://vite.dev/"><img src="assets/icons/vite.svg" width="42" alt="Vite" title="Vite" /></a>
   <br />
-  <img src="assets/icons/bun.svg" width="42" alt="Bun" title="Bun" />&nbsp;
-  <img src="assets/icons/docker.svg" width="42" alt="Docker" title="Docker" />&nbsp;
-  <img src="assets/icons/git.svg" width="42" alt="Git" title="Git" />&nbsp;
-  <img src="assets/icons/github.svg" width="42" alt="GitHub" title="GitHub" />&nbsp;
-  <code>templ</code>
+  <a href="https://bun.sh/"><img src="assets/icons/bun.svg" width="42" alt="Bun" title="Bun" /></a>&nbsp;
+  <a href="https://www.docker.com/"><img src="assets/icons/docker.svg" width="42" alt="Docker" title="Docker" /></a>&nbsp;
+  <a href="https://git-scm.com/"><img src="assets/icons/git.svg" width="42" alt="Git" title="Git" /></a>&nbsp;
+  <a href="https://github.com/"><img src="assets/icons/github.svg" width="42" alt="GitHub" title="GitHub" /></a>&nbsp;
+  <a href="https://templ.guide/"><img src="assets/icons/templ.svg" width="90" alt="Templ" title="Templ" /></a>
 </p>
 
 <h2 align="center">✨ GitHub stats</h2>
