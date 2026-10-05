@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="assets/astral-banner.svg" alt="Astra-chan desu — little worlds, careful code, soft chaos" width="100%" />
+  <img src="assets/kiwi-leapard-black.png" alt="Kiwi leopard manga artwork" width="58%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/astra-chanUwU"><img src="https://img.shields.io/badge/GitHub-astra--chanUwU-ff8fcb?style=for-the-badge&logo=github&logoColor=white" alt="GitHub: astra-chanUwU" /></a>
-  <a href="https://github.com/astra-chanUwU?tab=repositories"><img src="https://img.shields.io/badge/repositories-open%20source-8be9fd?style=for-the-badge&logo=bookstack&logoColor=11142f" alt="Open source repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=astra-chanUwU&style=for-the-badge&color=bd93f9&label=VISITORS" alt="Profile views" />
+  <a href="https://x.com/Akhu176"><img src="https://img.shields.io/badge/X-@Akhu176-8be9fd?style=for-the-badge&logo=x&logoColor=11142f" alt="X: @Akhu176" /></a>
+  <a href="https://efchat.net/AstroSphere"><img src="https://img.shields.io/badge/efchat-AstroSphere-bd93f9?style=for-the-badge&logo=chatbot&logoColor=white" alt="efchat: AstroSphere" /></a>
 </p>
 
 <h2 align="center">✦ hi, i'm Astra ✦</h2>
@@ -26,14 +26,11 @@ current quest
 ✦ leave the code kinder than i found it
 ```
 
-## 🌙 things i'm building
+## 🌙 current project
 
-| project | what it is | mood |
-| --- | --- | --- |
-| [AstroSphere](https://github.com/astra-chanUwU/astrosphere) | A static Astro archive for manga, doujinshi, image sets, and essays, with a careful local media workflow. | `archive magic` |
-| [Kura V3](https://github.com/astra-chanUwU/kura-v3-elm-go) | An Elm and Go visual library with search, collections, tags, favorites, and a Lightroom-style media workspace. | `organised chaos` |
-| [Report Maker](https://github.com/astra-chanUwU/report-maker-tauri-vite-react) | An offline-first desktop tool for turning vibration data into editable engineering reports. | `serious little machine` |
-| [Astrochan Blog](https://github.com/astra-chanUwU/astrochan-blog) | A minimalist Hugo blog for technical notes, experiments, and the things I learn while building. | `quiet corner` |
+### [Kura V3](https://github.com/astra-chanUwU/kura-v3-elm-go)
+
+An Elm and Go visual library with search, collections, tags, favorites, and a Lightroom-style media workspace. It is the place where I’m exploring how a personal archive can feel both powerful and calm.
 
 ## 🛠️ tools i reach for
 
@@ -42,7 +39,7 @@ current quest
 </p>
 
 <p align="center">
-  <code>server-rendered slices</code> · <code>local-first workflows</code> · <code>accessible details</code> · <code>data that stays yours</code>
+  <code>Go</code> · <code>TypeScript</code> · <code>Astro</code> · <code>React</code> · <code>HTMX</code> · <code>Tauri</code> · <code>TanStack</code> · <code>Convex</code> · <code>Elm</code> · <code>Tailwind CSS</code> · <code>Rust</code> · <code>SQLite</code> · <code>PostgreSQL</code>
 </p>
 
 ## ✨ a little dashboard
@@ -52,16 +49,12 @@ current quest
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=astra-chanUwU&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=ff8fcb&text_color=cdd6f4" alt="Astra's most used languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astra-chanUwU&bg_color=00000000&color=cdd6f4&line=ff8fcb&point=8be9fd&area=true&hide_border=true" alt="Astra's contribution activity" width="95%" />
-</p>
-
 ## 💌 find me in the constellation
 
 <p align="center">
   <a href="https://github.com/astra-chanUwU">GitHub</a> ·
-  <a href="https://github.com/astra-chanUwU/astrochan-blog">the blog</a> ·
-  <a href="https://github.com/astra-chanUwU/astrosphere">the archive</a>
+  <a href="https://x.com/Akhu176">X / @Akhu176</a> ·
+  <a href="https://efchat.net/AstroSphere">efchat / AstroSphere</a>
 </p>
 
 <p align="center">
