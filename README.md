@@ -15,18 +15,20 @@
   <em>just a little kawaii anime girl (guy in real life...)</em>
 </p>
 
-I mostly do small to mid-size projects with the currently sensible tech stack.
+I build small to mid-size projects with Go, React, TypeScript, and web technologies.
 
 I'm a big advocate of defaulting to **Go + React** or **Go + templ + HTMX** for most projects.
 
-I'm really curious about **Elm** and currently experimenting with it.
-
-<h2 align="center">🌙 Current project</h2>
+<h2 align="center">🌙 Featured projects</h2>
 <p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
 
-<h3 align="center"><a href="https://github.com/astra-chanUwU/kura-v3-elm-go">Kura V3</a></h3>
+<h3 align="center"><a href="https://github.com/astra-chanUwU/kura-v4">Kura V4</a></h3>
 
-Kura is the imageboard and media-library project I'm using to try Elm with a Go backend. It has search, collections, tags, favorites, and a Lightroom-style media workspace.
+Kura is my imageboard and media-library project. V4 is a Go/Fiber application with an embedded React and TypeScript frontend, backed by PostgreSQL. It is the new direction for Kura, with the core foundation in place and the media-library features still to come.
+
+<h3 align="center"><a href="https://github.com/astra-chanUwU/astro-chan-blog">Astro chan blog</a></h3>
+
+My personal technical blog, built with Astro, Tailwind CSS v4, and Starwind UI. It includes searchable articles and is deployed to GitHub Pages.
 
 <h2 align="center">🛠️ Tech stack and tools</h2>
 <p align="center"><img src="assets/blue-divider.gif" alt="" width="100%" /></p>
@@ -46,7 +48,6 @@ Kura is the imageboard and media-library project I'm using to try Elm with a Go 
   <a href="https://www.rust-lang.org/"><img src="assets/icons/rust.svg" width="42" alt="Rust" title="Rust" /></a>&nbsp;
   <a href="https://astro.build/"><img src="assets/icons/astro.svg" width="42" alt="Astro" title="Astro" /></a>
   <br />
-  <a href="https://gohugo.io/"><img src="assets/icons/hugo.svg" width="42" alt="Hugo" title="Hugo" /></a>&nbsp;
   <a href="https://tanstack.com/"><img src="assets/icons/tanstack.svg" width="42" alt="TanStack" title="TanStack" /></a>&nbsp;
   <a href="https://www.convex.dev/"><img src="assets/icons/convex.svg" width="42" alt="Convex" title="Convex" /></a>&nbsp;
   <a href="https://sqlite.org/"><img src="assets/icons/sqlite.svg" width="42" alt="SQLite" title="SQLite" /></a>&nbsp;
